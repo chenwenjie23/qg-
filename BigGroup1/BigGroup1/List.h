@@ -18,4 +18,4 @@ void Reverseprint(struct tagList * perior);
 void del(struct tagList*head);
 void insert(struct tagList* head);
 void findmid(struct tagList*head);
-int circle(struct tagList*head)
+void circle(struct tagList*head)

@@ -139,7 +139,7 @@ void findmid(struct tagList*head)
 		} while (p1 != NULL);
 		printf("%ld,%d", p2->ele.num, p2->ele.score);
 }
-int circle(struct tagList*head)
+void circle(struct tagList*head)
 {
 	//设置快慢两个指针
 	struct tagList*p1, *p2;

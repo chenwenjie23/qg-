@@ -18,6 +18,9 @@ int main()
 		printf("********3.反向遍历***********\n");
 		printf("********4.删除元素***********\n");
 		printf("********5.插入元素***********\n");
+		printf("********6.找中点***********\n");
+		printf("********7.判断成环***********\n");
+
 		printf("请输入对应数字选择你需要的功能：\n");
 		scanf("%d", &b);
 		switch (b)
@@ -27,7 +30,9 @@ int main()
 		case 2:print(a[0]);break;
 		case 3:Reverseprint(a[1]);break;
 		case 4:del(a[0]);break;
-		case 5:insert(a[0]);
+		case 5:insert(a[0]);break;
+		case 6:findmid(a[0]);break;
+		case 7:circle(a[0]);break;
 		}
 	} while (b);
 	return 0;

@@ -1,0 +1,18 @@
+﻿  源2.c
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(45): warning C4047: “=”:“int”与“tagList *”的间接级别不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(46): warning C4047: “=”:“int”与“tagList *”的间接级别不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(55): warning C4476: "printf": 格式说明符中的类型字段字符“%”未知
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(55): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(55): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(66): warning C4476: "printf": 格式说明符中的类型字段字符“%”未知
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(66): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(66): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(153): warning C4047: “函数”:“tagList *”与“int”的间接级别不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(153): warning C4024: “print”: 形参和实参 1 的类型不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(154): warning C4047: “函数”:“tagList *”与“int”的间接级别不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(154): warning C4024: “Reverseprint”: 形参和实参 1 的类型不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(155): warning C4047: “函数”:“tagList *”与“int”的间接级别不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(155): warning C4024: “del”: 形参和实参 1 的类型不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(156): warning C4047: “函数”:“tagList *”与“int”的间接级别不同
+c:\users\jt7\source\repos\biggroup1\biggroup1\源2.c(156): warning C4024: “insert”: 形参和实参 1 的类型不同
+  BigGroup1.vcxproj -> C:\Users\JT7\source\repos\BigGroup1\Debug\BigGroup1.exe
